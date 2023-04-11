@@ -1,0 +1,3 @@
+reportlab
+PyPDF4
+progress.bar
